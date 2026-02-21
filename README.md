@@ -1,4 +1,72 @@
+# 💫 Hi 👋, I'm Ankit Kumar Gupta  
+### 🚀 MCA Student | Java Backend Developer | Future Full Stack Developer from India 🇮🇳  
 
+📧 **Email Me 👉 ankitgpt@gmail.com**  
+💼 Open for Internship | Backend | Full Stack Opportunities  
+
+---
+
+## 🌟 About Me  
+
+- 🎓 MCA Student at Kamla Nehru Institute of Technology, Sultanpur  
+- 🏆 College Topper in B.Sc. Mathematics (First Rank in Graduation)  
+- 💻 Currently learning: Spring Boot, React.js & System Design  
+- 🔥 Passionate about Backend Development & Scalable Applications  
+- 🚀 Building Full Stack Projects using Java + React  
+- ⚡ Fun fact: I love solving coding problems and building real-world projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Programming Languages  
+- Java  
+- Python  
+- JavaScript  
+
+### ⚙️ Backend  
+- Spring Boot  
+- REST APIs  
+- MySQL  
+
+### 🎨 Frontend  
+- React.js  
+- HTML  
+- CSS  
+- Tailwind CSS  
+
+### 🛠️ Tools & Platforms  
+- Git & GitHub  
+- Postman  
+- Netlify  
+- Render
+- Railway
+
+---
+
+## 🚀 Projects  
+
+- 🏢 Employee Management System (Spring Boot + React)  
+- 🎨 Personal Portfolio Website  
+- 📊 React Basic UI Project  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit2upu&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect  
+
+- 💼 LinkedIn: https://linkedin.com/in/ankit2upu  
+- 🌐 Portfolio: https://ankit2upuportfolio.netlify.app  
+- 📧 Email: ankitgpt2345@gmail.com  
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anitgupta.982) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit_gupta5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit2upu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitgpt2345@gmail.com) 
 
