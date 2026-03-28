@@ -9,7 +9,7 @@
 ## 🌟 About Me  
 
 - 🎓 MCA Student at Kamla Nehru Institute of Technology, Sultanpur  
-- 🏆 College Topper in B.Sc. Mathematics (First Rank in Graduation)  
+-  First Rank in Graduation 🏆 
 - 💻 Currently learning: Spring Boot, React.js & System Design  
 - 🔥 Passionate about Backend Development & Scalable Applications  
 - 🚀 Building Full Stack Projects using Java + React  
