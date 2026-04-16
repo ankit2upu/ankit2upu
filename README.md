@@ -21,15 +21,7 @@
 - 🎨 Personal Portfolio Website  
 - 📊 React Basic UI Project
 - 🤖 simple chatbot using react+spring Boot
-
----
-
-## 📊 GitHub Stats  
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit2upu&show_icons=true&theme=tokyonight)
-
----
-
+  
 ## 🤝 Let's Connect  
 
 - 💼 LinkedIn: https://linkedin.com/in/ankit2upu  
