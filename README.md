@@ -10,18 +10,18 @@
 
 - 🎓 MCA Student at Kamla Nehru Institute of Technology, Sultanpur  
 - 🏆 First Rank in Graduation  
-- 💻 Currently learning: Spring Boot, React.js & System Design  
+- 💻 Currently learning: Spring Boot, React.js & microservices
 - 🔥 Passionate about Backend Development & Scalable Applications  
 - 🚀 Building Full Stack Projects using Java + React  
 - ⚡ Fun fact: I love solving coding problems and building real-world projects  
 
 ## 🚀 Projects  
-
-- 🏢 Employee Management System (Spring Boot + React)  
-- 🎨 Personal Portfolio Website  
-- 📊 React Basic UI Project
+- 🎬 You tube tools(Spring Boot + Thymeleaf)
+- 🏢 Employee Management System (Spring Boot + React)
 - 🤖 simple chatbot using react+spring Boot
-  
+- 📊 React Basic UI Project
+- 🎨 Personal Portfolio Website  
+
 ## 🤝 Let's Connect  
 
 - 💼 LinkedIn: https://linkedin.com/in/ankit2upu  
