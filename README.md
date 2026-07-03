@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ankit Kumar Gupta  
-### 🚀 MCA Student | Java Backend Developer | Future Full Stack Developer
+### 🚀Web Developer | React & Spring Boot | MCA'26 @ KNIT
 
 📧 **Email Me 👉 ankitgpt2345@gmail.com**  
 💼 Open for Internship | Backend | Full Stack Opportunities  
